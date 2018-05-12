@@ -1,0 +1,28 @@
+_repo: Eugenics-as-a-Factor-in-the-Prevention-of-Mental-Disease_35244
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pollock, Horatio M. (Horatio Milo)
+    alias: Pollock, H. M. (Horatio Milo)
+    birthdate: 1868
+    deathdate: 1950
+    gutenberg_agent_id: '37554'
+    url: http://www.gutenberg.org/2009/agents/37554
+description: ''
+gutenberg_issued: '2011-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35244'
+  lccn: '24008921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eugenics'
+- !lcc 'HQ'
+title: Eugenics as a Factor in the Prevention of Mental Disease
+url: http://www.gutenberg.org/ebooks/35244
